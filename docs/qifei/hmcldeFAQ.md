@@ -2,17 +2,18 @@
 
 ## **必读**
 
-- 本文档将定时收集HMCL 多人联机常见问题与回答，若你在这里没有发现你想要的回答，欢迎前往【[此视频](https://www.bilibili.com/video/BV1g3411Y7rC)】下的评论区进行提问，我会定期前往回答，然后将问题上传至此，也欢迎加入【[QQ群：212927890](https://jq.qq.com/?_wv=1027&k=N4mHT9FD)】进行问题讨论！
+- 本文档将定时收集HMCL 多人联机常见问题与回答，若你在这里没有发现你想要的回答，欢迎前往 此【[视频](https://www.bilibili.com/video/BV1g3411Y7rC)】下的评论区进行提问，我会定期前往回答，然后将问题上传至此，也欢迎加入【[QQ群：212927890](https://jq.qq.com/?_wv=1027&k=N4mHT9FD)】进行问题讨论！
 
 - 你可以使用`Ctrl+f`来方便查找你的答案
 
+
 ::: tip 提示
- **在阅读本文章前，请先确认 HMCL 版本是否为 <img src="https://img.shields.io/maven-central/v/org.glavo.hmcl/hmcl-dev?label=开发版" style="zoom: 130%;" />，若不是，请在 [此处](https://gitee.com/Glavo/HMCL-Update/blob/main/README.md#%E6%B5%8B%E8%AF%95%E7%89%88-)下载他。**
+ **在阅读本文章前，请先确认 HMCL 版本是否为 <img src="https://img.shields.io/maven-central/v/org.glavo.hmcl/hmcl-dev?label=开发版" style="zoom: 130%;" />，若不是，请在【 [此处](https://gitee.com/Glavo/HMCL-Update/blob/main/README.md#%E6%B5%8B%E8%AF%95%E7%89%88-)】下载他。**
 :::
+::: warning 注意
+- 如果你想为此文档做贡献，你可以在 【[**Github**](https://github.com/944390394/cato-mengyou) 】提交 Pull requests 。其中，图片要存放在 Github 仓库中的 `/assets/img/docs/multiplayer-faq` 目录中
 
-- 如果你想为此文档做贡献，你可以在 [**Github**](https://github.com/944390394/cato-mengyou) 提交 Pull requests 。其中，图片要存放在 Github 仓库中的 `/assets/img/docs/multiplayer-faq` 目录中
-
-- **在[QQ群：212927890](https://jq.qq.com/?_wv=1027&k=N4mHT9FD)提问本文章没有的问题时，为了更快的解决问题，请提供以下必要信息：**
+- **在【[Q群：212927890](https://jq.qq.com/?_wv=1027&k=N4mHT9FD)】提问本文章没有的问题时，为了更快的解决问题，请提供以下必要信息：**
 
   **你所使用的 cato 渠道是 HMCL吗？**
 
@@ -23,7 +24,7 @@
   **你认为大概是什么问题，**
 
   **你是否已经阅读过本文档，并按文档内容尝试解决？（是/否）**
-
+:::
 ## (腾空用请无视)~~
 /
 
