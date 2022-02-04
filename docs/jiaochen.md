@@ -2,9 +2,23 @@
 ## 目录页
 [[toc]]
 
+## 在开始之前
+
 ## 如何入网
+### 无凭证入网（**Windoes**）
 
+![1](./pngc/wupzrw.gif)
 
+打开下载cato的目录，
+
+在此界面按住shift后右键
+
+打开**windoes终端**键入
+```
+./cato
+```
+如果不出意外你应该会得到以下这个界面
+![wpzljxg](./pngc/wpzljxg.png)
 
 
 ## net – 网络功能
@@ -32,11 +46,11 @@
 ### ufw user:用户防火策略
 ---
 
-- ### ufw user add :添加屏蔽用户
+- #### ufw user add :添加屏蔽用户
 
-- ### ufw user del :移除屏蔽用户
+- #### ufw user del :移除屏蔽用户
 
-- ### ufw user list :屏蔽用户名单
+- #### ufw user list :屏蔽用户名单
 ---
 
 ### ufw net:网络防火策略
