@@ -10,9 +10,10 @@
 
 ::: tip 提示
 
- **在阅读本文章前，请先确认 HMCL 版本是否为开发版 <img src="https://img.shields.io/maven-central/v/org.glavo.hmcl/hmcl-dev?label" style="zoom: 130%;" />，若不是，请在[此处](https://gitee.com/Glavo/HMCL-Update/blob/main/README.md#%E6%B5%8B%E8%AF%95%E7%89%88-)下载他。**
+ **在阅读本文章前，请先确认 HMCL 版本是否为**<img src="https://img.shields.io/maven-central/v/org.glavo.hmcl/hmcl-dev?label=开发版" style="zoom: 130%;" />，若不是，请在[此处](https://gitee.com/Glavo/HMCL-Update/blob/main/README.md#%E6%B5%8B%E8%AF%95%E7%89%88-)下载他。**
 
 :::
+
 
 
 - 如果你想为此文档做贡献，你可以在 [**Github**](https://github.com/944390394/cato-mengyou) 提交 Pull requests 。其中，图片要存放在 Github 仓库中的 `/assets/img/docs/multiplayer-faq` 目录中
