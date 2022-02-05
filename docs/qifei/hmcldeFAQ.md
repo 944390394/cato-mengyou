@@ -13,7 +13,7 @@
 :::
 
 - 如果你想为此文档做贡献，你可以在 [**Github**](https://github.com/944390394/cato-mengyou) 提交 Pull requests 。其中，图片要存放在 Github 仓库中的 `/assets/img/docs/multiplayer-faq` 目录中
-  ::: warning 注意
+::: warning 注意
 
 - **在【[Q群：212927890](https://jq.qq.com/?_wv=1027&k=N4mHT9FD)】提问本文章没有的问题时，为了更快的解决问题，请提供以下必要信息：**
 
@@ -27,7 +27,7 @@
   
   ***你是否已经阅读过本文档，并按文档内容尝试解决？（是/否）***
 
-  :::
+:::
 
 ## 目录
 
@@ -65,7 +65,7 @@
 
 :::
 
-**有关 如何改善 NAT 类型为差的网络？ 您可以参考这篇文章[如何改善 NAT 类型为差的网络？](https://zkitefly.github.io/hmcld/help/launcher/multiplayer-symmetric.html)[ ](https://zkitefly.github.io/hmcld/help/launcher/multiplayer-symmetric.html)**
+**有关 如何改善 NAT 类型为差的网络？ 您可以参考这篇文章[如何改善 NAT 类型为差的网络？](https://zkitefly.github.io/hmcld/help/launcher/multiplayer-symmetric.html)**
 
 ------
 
@@ -209,19 +209,19 @@
 
 ### 回答
 
-> **在[Cato快速入门体验包](https://noin.cn/shop/646.html)中往下滑，以游客身份购买，并按照提示获取到社区邀请码注册社区帐号（拥有了社区帐号则无需购买），然后在[此处](https://noin.cn/shop/exchange)以积分的方式购买'月度凭证'或'单日凭证'（积分在刚刚都购买中包含积分、每日签到获得积分、在[此处](https://noin.cn/gold/credit)购买获得 等等......）**
+> **在[Cato快速入门体验包](https://noin.cn/shop/646.html?ref=azAtwBwzp)中往下滑，以游客身份购买，并按照提示获取到社区邀请码注册社区帐号（拥有了社区帐号则无需购买），然后在[此处](https://noin.cn/shop/exchange?ref=azAtwBwzp)以积分的方式购买'月度凭证'或'单日凭证'（积分在刚刚都购买中包含积分、每日签到获得积分、在[此处](https://noin.cn/gold/credit?ref=azAtwBwzp)购买获得 等等......）**
 >
 > **加入[QQ群：212927890](https://jq.qq.com/?_wv=1027&k=N4mHT9FD)，然后在群聊中 `@Q群管家 凭证 ` 获取详细方法 或 `@梦游泪世/邀请码20rmb一个（买码私聊) `询问获得凭证或邀请码**
 
-**注意事项**
+::: warning 注意
 
 **房主和加入方必须使用凭证联机（因为凭证网络与非凭证网路是不互通的），且一个人只能使用一个凭证**
 
 **若出现使用凭证的情况下仍然无法使用，请查阅此问题->** [**创建联机房间失败，你的凭证可能无法正常工作，你可以使用空凭证再试**](./hmcldeFAQ.html#创建联机房间失败-你的凭证可能无法正常工作-你可以使用空凭证再试)
 
 **请确保房主和加入方的 HMCL 版本是一样的！**
-
-## **什么是凭证**
+:::
+## 什么是凭证
 
 ### 问题
 
@@ -240,3 +240,4 @@
 ### 回答
 
 **有关此问题，请查阅**[**此文章**](http://101.37.91.57:8080/qifei/hmcl.html#%E8%81%94%E6%9C%BA%E6%95%99%E7%A8%8B)
+
