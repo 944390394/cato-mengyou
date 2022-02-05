@@ -9,8 +9,11 @@
 - 你可以使用`Ctrl+f`来方便查找你的答案
 
 ::: tip 提示
+
  **在阅读本文章前，请先确认 HMCL 版本是否为开发版 <img src="https://img.shields.io/maven-central/v/org.glavo.hmcl/hmcl-dev?label" style="zoom: 130%;" />，若不是，请在[此处](https://gitee.com/Glavo/HMCL-Update/blob/main/README.md#%E6%B5%8B%E8%AF%95%E7%89%88-)下载他。**
+
 :::
+
 
 - 如果你想为此文档做贡献，你可以在 [**Github**](https://github.com/944390394/cato-mengyou) 提交 Pull requests 。其中，图片要存放在 Github 仓库中的 `/assets/img/docs/multiplayer-faq` 目录中
 ::: warning 注意
@@ -83,7 +86,7 @@
 
 ![chuangfang.jpg](./png/chuangfang.jpg)
 
-**请检查房主和你的HMCL版本是否一致,且版本是否为开发版**<img src="https://img.shields.io/maven-central/v/org.glavo.hmcl/hmcl-dev?label" style="zoom: 130%;" />
+**请检查房主和你的HMCL版本是否一致,且版本是否为**<img src="https://img.shields.io/maven-central/v/org.glavo.hmcl/hmcl-dev?label=开发版" style="zoom: 130%;" />
 
 ------
 
@@ -107,7 +110,7 @@
 
 ![pj.png](./png/pj.png)
 ### 回答
-**请确认 HMCL 版本是否为开发版 <img src="https://img.shields.io/maven-central/v/org.glavo.hmcl/hmcl-dev?label" style="zoom: 130%;" />，若不是，请在 [此处](https://gitee.com/Glavo/HMCL-Update/blob/main/README.md#%E6%B5%8B%E8%AF%95%E7%89%88-)下载他**
+**请确认 HMCL 版本是否为**<img src="https://img.shields.io/maven-central/v/org.glavo.hmcl/hmcl-dev?label=开发版" style="zoom: 130%;" />，**若不是，请在 [此处](https://gitee.com/Glavo/HMCL-Update/blob/main/README.md#%E6%B5%8B%E8%AF%95%E7%89%88-)下载他**
 
 ------
 
@@ -144,6 +147,9 @@
 **请检查你的凭证是否填写错误**
 
 **请检查你正在使用的凭证是否处于有效期内**
+::: tip 提示
+凭证里填写的是密钥，而不是序列号！！！
+:::
 
 ------
 
@@ -221,23 +227,5 @@
 
 **请确保房主和加入方的 HMCL 版本是一样的！**
 :::
-## 什么是凭证
 
-### 问题
-
-什么是凭证
-
-### 回答
-
-**请访问[此链接](http://101.37.91.57:8080/qifei/hmcl.html#%E5%87%AD%E8%AF%81)来获取详细信息**
-
-## 如何使用 HMCL 多人联机
-
-### 问题
-
-第一次使用 HMCL 多人联机，不清楚该如何使用
-
-### 回答
-
-**有关此问题，请查阅**[**此文章**](http://101.37.91.57:8080/qifei/hmcl.html#%E8%81%94%E6%9C%BA%E6%95%99%E7%A8%8B)
 
