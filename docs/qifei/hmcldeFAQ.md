@@ -201,7 +201,7 @@
 
 **若忍受不了每个整点或半点断开连接，你可以考虑申请凭证开启桥接服务**（[**获得凭证的方法**](#如何获得凭证)）
 
-## 如何获得凭证
+## **如何获得凭证**
 
 ### 问题
 
@@ -209,7 +209,7 @@
 
 ### 回答
 
-> **在[Cato快速入门体验包](https://noin.cn/shop/646.html)中往下滑，以游客身份购买，并按照提示获取到社区邀请码注册社区帐号（拥有了社区帐号则无需购买），然后在[此处](https://noin.cn/shop/exchange)以积分的方式购买'月度凭证'或'单日凭证'（积分在刚刚都购买中包含积分、每日签到获得积分、在[此处](https://noin.cn/gold/credit)购买获得 等等......）**
+> **在[Cato快速入门体验包](https://noin.cn/shop/646.html?ref=azAtwBwzp)中往下滑，以游客身份购买，并按照提示获取到社区邀请码注册社区帐号（拥有了社区帐号则无需购买），然后在[此处](https://noin.cn/shop/exchange?ref=azAtwBwzp)以积分的方式购买'月度凭证'或'单日凭证'（积分在刚刚都购买中包含积分、每日签到获得积分、在[此处](https://noin.cn/gold/credit?ref=azAtwBwzp)购买获得 等等......）**
 >
 > **加入[QQ群：212927890](https://jq.qq.com/?_wv=1027&k=N4mHT9FD)，然后在群聊中 `@Q群管家 凭证 ` 获取详细方法 或 `@梦游泪世/邀请码20rmb一个（买码私聊) `询问获得凭证或邀请码**
 
@@ -243,7 +243,16 @@
 
 > **若提示检测失败，但仍旧可以正常联机功能，请忽略此提示，正常使用即可**
 >
-> **若提示检测失败，且无法进行使用联机功能，建议阅读此文章 [如何改善 NAT 类型为差的网络？](https://zkitefly.github.io/hmcld/help/launcher/multiplayer-symmetric.html) *（若访问困难，可访问[此链接](https://gitee.com/bleaker/hmcld/blob/master/multiplayer-symmetric.md)*）或使用凭证开启桥接模式，因为桥接模式不受 NAT 类型的影响**（[**获得凭证的方法**](#10-如何获得凭证)）
+> **若提示检测失败，且无法进行使用联机功能，建议阅读此文章 [如何改善 NAT 类型为差的网络？](https://zkitefly.github.io/hmcld/help/launcher/multiplayer-symmetric.html) *（若访问困难，可访问[此链接](https://gitee.com/bleaker/hmcld/blob/master/multiplayer-symmetric.md)*），或使用凭证开启桥接模式，因为桥接模式不受 NAT 类型的影响**（[**获得凭证的方法**](#10-如何获得凭证)）
 
 **若使用凭证仍旧无法解决，请加入 [QQ群：212927890](https://jq.qq.com/?_wv=1027&k=N4mHT9FD) 获得帮助**
 
+## **若房主使用带有 Mod 的客户端创建房间，那加入方是否需要房主客户端的 Mod**
+
+### 问题
+
+有一天，我想与我的朋友一起玩 XXX Mod（模组），于是我（房主）用带有 XXX Mod 的客户端创建房间，但请问加入方是否也需要带有 XXX Mod 的客户端加入房间？
+
+### 回答
+
+**需要，请确保加入方的客户端与房主的客户端保持一致，且若房主的客户端安装了 Mod ，那加入方的客户端也必须拥有房主客户端中的 Mod！**
