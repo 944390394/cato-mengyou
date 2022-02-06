@@ -9,15 +9,11 @@
 - 你可以使用`Ctrl+f`来方便查找你的答案
 
 ::: tip 提示
-
- **在阅读本文章前，请先确认 HMCL 版本是否为**<img src="https://img.shields.io/maven-central/v/org.glavo.hmcl/hmcl-dev?label=开发版" style="zoom: 130%;" />，**若不是，请在[此处](https://gitee.com/Glavo/HMCL-Update/blob/main/README.md#%E6%B5%8B%E8%AF%95%E7%89%88-)下载他。**
-
+ **在阅读本文章前，请先确认 HMCL 版本是否为开发版 <img src="https://img.shields.io/maven-central/v/org.glavo.hmcl/hmcl-dev?label" style="zoom: 130%;" />，若不是，请在[此处](https://gitee.com/Glavo/HMCL-Update/blob/main/README.md#%E6%B5%8B%E8%AF%95%E7%89%88-)下载他。**
 :::
 
-
-
 - 如果你想为此文档做贡献，你可以在 [**Github**](https://github.com/944390394/cato-mengyou) 提交 Pull requests 。其中，图片要存放在 Github 仓库中的 `/assets/img/docs/multiplayer-faq` 目录中
-::: warning 注意
+  ::: warning 注意
 
 - **在【[Q群：212927890](https://jq.qq.com/?_wv=1027&k=N4mHT9FD)】提问本文章没有的问题时，为了更快的解决问题，请提供以下必要信息：**
 
@@ -31,7 +27,7 @@
   
   ***你是否已经阅读过本文档，并按文档内容尝试解决？（是/否）***
 
-:::
+  :::
 
 ## 目录
 
@@ -47,7 +43,7 @@
 
 ### 回答
 
-**请确认 HMCL 版本是否为  <img src="https://img.shields.io/maven-central/v/org.glavo.hmcl/hmcl-dev?label=开发版" style="zoom: 130%;" />，若不是，请在 [此处](https://gitee.com/Glavo/HMCL-Update/blob/main/README.md#%E6%B5%8B%E8%AF%95%E7%89%88-)下载他。**
+**请确认 HMCL 版本是否为开发版<img src="https://img.shields.io/maven-central/v/org.glavo.hmcl/hmcl-dev?label" style="zoom: 130%;" />，若不是，请在 [此处](https://gitee.com/Glavo/HMCL-Update/blob/main/README.md#%E6%B5%8B%E8%AF%95%E7%89%88-)下载他。**
 
 ## 无法连接多人联机服务，你可以在多人联机页面的反馈中反馈问题
 
@@ -69,7 +65,7 @@
 
 :::
 
-**有关 如何改善 NAT 类型为差的网络？ 您可以参考这篇文章[如何改善 NAT 类型为差的网络？](https://zkitefly.github.io/hmcld/help/launcher/multiplayer-symmetric.html)**
+**有关 如何改善 NAT 类型为差的网络？ 您可以参考这篇文章[如何改善 NAT 类型为差的网络？](https://zkitefly.github.io/hmcld/help/launcher/multiplayer-symmetric.html)[ ](https://zkitefly.github.io/hmcld/help/launcher/multiplayer-symmetric.html)** *（若访问困难，可访问[此链接](https://gitee.com/bleaker/hmcld/blob/master/multiplayer-symmetric.md)*）
 
 ------
 
@@ -87,7 +83,7 @@
 
 ![chuangfang.jpg](./png/chuangfang.jpg)
 
-**请检查房主和你的HMCL版本是否一致,且版本是否为**<img src="https://img.shields.io/maven-central/v/org.glavo.hmcl/hmcl-dev?label=开发版" style="zoom: 130%;" />
+**请检查房主和你的HMCL版本是否一致,且版本是否为开发版**<img src="https://img.shields.io/maven-central/v/org.glavo.hmcl/hmcl-dev?label" style="zoom: 130%;" />
 
 ------
 
@@ -101,7 +97,7 @@
 
 :::
 
-**有关 如何改善 NAT 类型为差的网络？ 您可以参考这篇文章[如何改善 NAT 类型为差的网络？](https://zkitefly.github.io/hmcld/help/launcher/multiplayer-symmetric.html)**
+**有关 如何改善 NAT 类型为差的网络？ 您可以参考这篇文章[如何改善 NAT 类型为差的网络？](https://zkitefly.github.io/hmcld/help/launcher/multiplayer-symmetric.html)** *（若访问困难，可访问[此链接](https://gitee.com/bleaker/hmcld/blob/master/multiplayer-symmetric.md)*）
 
 ## 安装失败，部分文件无法下载
 
@@ -111,7 +107,7 @@
 
 ![pj.png](./png/pj.png)
 ### 回答
-**请确认 HMCL 版本是否为**<img src="https://img.shields.io/maven-central/v/org.glavo.hmcl/hmcl-dev?label=开发版" style="zoom: 130%;" />，**若不是，请在 [此处](https://gitee.com/Glavo/HMCL-Update/blob/main/README.md#%E6%B5%8B%E8%AF%95%E7%89%88-)下载他**
+**请确认 HMCL 版本是否为开发版 <img src="https://img.shields.io/maven-central/v/org.glavo.hmcl/hmcl-dev?label" style="zoom: 130%;" />，若不是，请在 [此处](https://gitee.com/Glavo/HMCL-Update/blob/main/README.md#%E6%B5%8B%E8%AF%95%E7%89%88-)下载他**
 
 ------
 
@@ -148,9 +144,6 @@
 **请检查你的凭证是否填写错误**
 
 **请检查你正在使用的凭证是否处于有效期内**
-::: tip 提示
-凭证里填写的是密钥，而不是序列号！！！
-:::
 
 ------
 
@@ -216,17 +209,41 @@
 
 ### 回答
 
-> **在[Cato快速入门体验包](https://noin.cn/shop/646.html?ref=azAtwBwzp)中往下滑，以游客身份购买，并按照提示获取到社区邀请码注册社区帐号（拥有了社区帐号则无需购买），然后在[此处](https://noin.cn/shop/exchange?ref=azAtwBwzp)以积分的方式购买'月度凭证'或'单日凭证'（积分在刚刚都购买中包含积分、每日签到获得积分、在[此处](https://noin.cn/gold/credit?ref=azAtwBwzp)购买获得 等等......）**
+> **在[Cato快速入门体验包](https://noin.cn/shop/646.html)中往下滑，以游客身份购买，并按照提示获取到社区邀请码注册社区帐号（拥有了社区帐号则无需购买），然后在[此处](https://noin.cn/shop/exchange)以积分的方式购买'月度凭证'或'单日凭证'（积分在刚刚都购买中包含积分、每日签到获得积分、在[此处](https://noin.cn/gold/credit)购买获得 等等......）**
 >
 > **加入[QQ群：212927890](https://jq.qq.com/?_wv=1027&k=N4mHT9FD)，然后在群聊中 `@Q群管家 凭证 ` 获取详细方法 或 `@梦游泪世/邀请码20rmb一个（买码私聊) `询问获得凭证或邀请码**
 
-::: warning 注意
+**注意事项**
 
 **房主和加入方必须使用凭证联机（因为凭证网络与非凭证网路是不互通的），且一个人只能使用一个凭证**
 
 **若出现使用凭证的情况下仍然无法使用，请查阅此问题->** [**创建联机房间失败，你的凭证可能无法正常工作，你可以使用空凭证再试**](./hmcldeFAQ.html#创建联机房间失败-你的凭证可能无法正常工作-你可以使用空凭证再试)
 
 **请确保房主和加入方的 HMCL 版本是一样的！**
-:::
 
+## **什么是凭证**
+
+### 问题
+
+什么是凭证呀
+
+### 回答
+
+**请访问[此链接](http://101.37.91.57:8080/qifei/hmcl.html#%E5%87%AD%E8%AF%81)来获取详细信息**
+
+## HMCL检测 NAT 类型时提示失败怎么办
+
+### 问题
+
+在正常进入多人联机页面，然后 HMCL 照常检测 NAT 类型，结果提示检测失败，这样该怎么办
+
+### 回答
+
+**无论失败与否，请以实际表现为准！！！**
+
+> **若提示检测失败，但仍旧可以正常联机功能，请忽略此提示，正常使用即可**
+>
+> **若提示检测失败，且无法进行使用联机功能，建议阅读此文章 [如何改善 NAT 类型为差的网络？](https://zkitefly.github.io/hmcld/help/launcher/multiplayer-symmetric.html) *（若访问困难，可访问[此链接](https://gitee.com/bleaker/hmcld/blob/master/multiplayer-symmetric.md)*）或使用凭证开启桥接模式，因为桥接模式不受 NAT 类型的影响**（[**获得凭证的方法**](#10-如何获得凭证)）
+
+**若使用凭证仍旧无法解决，请加入 [QQ群：212927890](https://jq.qq.com/?_wv=1027&k=N4mHT9FD) 获得帮助**
 
