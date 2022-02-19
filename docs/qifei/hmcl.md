@@ -12,7 +12,7 @@
 | NAT 网络类型    | ----  |
 | ------------- |:-------------:| 
 |好         | 公网开放型 | 
-| 中      | 完全圆锥型      |   
+| 好      | 完全圆锥型      |   
 | 中 | 受限圆锥型      |   
 | 中     | 端口受限圆锥型      |   
 | 差 | 对称型      | 
@@ -20,10 +20,11 @@
 | 极差 | 网络禁止 UDP 协议      | 
 | 未知类型      | 检测失败     |   
 
-如果您的类型是 好 ，您可以直接使用公网IP进行联机。使用公网IP联机请查阅网上的资料。
+如果您的类型是 公网开放型 ，您可以直接使用公网IP进行联机。使用公网IP联机请查阅网上的资料。
 
 如何改善 NAT 类型为差的网络？
-您可以参考这篇文章【[如何改善 NAT 类型为差的网络？](https://zkitefly.github.io/hmcld/help/launcher/multiplayer-symmetric.html)】
+您可以参考这篇文章：
+【[如何改善 NAT 类型为差的网络？](https://zkitefly.github.io/hmcld/help/launcher/multiplayer-symmetric.html)】
 
 ::: warning 注意
 
@@ -48,15 +49,15 @@
 如需兑换凭证，请查阅 [兑换凭证教程](/noin/pingzhengjiaocen.md)。
 
 ::: tip Token
-Token是服务端生成的一串字符串，以作客户端进行请求的一个令牌，有了他服务器就知道了你是谁，有什么权限，相当与现在的通行证一样，服务器通过这个判断你是否有权使用桥接服务 
+Token 是服务端生成的一串字符串，以作客户端进行请求的一个令牌，有了他服务器就知道了你是谁，有什么权限，相当与现在的通行证一样，服务器通过这个判断你是否有权使用桥接服务 
 :::
 
 ### MIX用户
-mix用户是指公共网络用户
+mix 用户是指公共网络用户
 
 ::: warning 注意
 
-公共网络用户身份(mix)认证的生命周期为半小时，需要更长的存活请申请凭证
+公共网络用户身份 ( mix ) 认证的生命周期为半小时，需要更长的存活请申请凭证
 
 也就是说，未使用桥接服务的用户每半个小时会被断开一次。如需长时间保持链接需申请token
 :::
@@ -66,14 +67,14 @@ mix用户是指公共网络用户
 
 ### 桥接服务
 
-Cato面向较差网络类型提供的网络质量增强优化解决方案。
+Cato 面向较差网络类型提供的网络质量增强优化解决方案。
 
 ### 猫猫
-cato和ioi作品的作者，~~一个强大而可怕的存在。~~
+cato 和 ioi 作品的作者，~~一个强大而可怕的存在。~~
 
 ### 这里
 
-[这里](https://www.noin.cn)是Cato，ioi作者  猫猫创建的官方社区.
+[这里](https://www.noin.cn)是 Cato，ioi 作者  猫猫创建的官方社区.
  
 你可以在社区里兑换凭证，反馈问题，结交朋友。更多详情请查阅【[社区](/noin/pingzhengjiaocen.md)】板块
 
@@ -118,16 +119,16 @@ cato和ioi作品的作者，~~一个强大而可怕的存在。~~
 本文使用hmcl的版本为 3.5.2.216
 :::
 ### 主界面
-![zhujiemain.png](./png/zhujiemain.png)
+![zhujiemain.png](./png/hmcl/zhujiemain.png)
 
 ### 启动游戏
 #### 单击此处后，您将会启动当前主界面所选游戏。
 
 #### HMCL 此时不会关闭界面。
-![qingdong.png](./png/qidong.png)
+![qingdong.png](./png/hmcl/qidong.png)
  
 ### 多人联机界面
-![duorenpro.png](./png/duorenpro.png)
+![duorenpro.png](./png/hmcl/duorenpro.png)
 
 ### 创建房间
 
@@ -144,7 +145,7 @@ cato和ioi作品的作者，~~一个强大而可怕的存在。~~
 此时，请回到 HMCL 多人联机界面。点击 创建房间 ，您将看到您的局域网游戏已经被正确识别。
 
 单击确认按钮，即可创建房间。
-![fj.png](./png/fj.png)
+![fj.png](./png/hmcl/hmcl/fj.png)
 
 ::: tip 提示
 
