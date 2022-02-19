@@ -65,7 +65,7 @@
 
 :::
 
-**有关 如何改善 NAT 类型为差的网络？ 您可以参考这篇文章[如何改善 NAT 类型为差的网络？](https://zkitefly.github.io/hmcld/help/launcher/multiplayer-symmetric.html)[ ](https://zkitefly.github.io/hmcld/help/launcher/multiplayer-symmetric.html)** *（若访问困难，可访问[此链接](https://gitee.com/bleaker/hmcld/blob/master/multiplayer-symmetric.md)*）
+**有关 如何改善 NAT 类型为差的网络？ 您可以参考这篇文章[如何改善 NAT 类型为差的网络？](https://zkitefly.github.io/hmcld/help/launcher/multiplayer-symmetric.html)** *（若访问困难，可访问[此链接](https://gitee.com/bleaker/hmcld/blob/master/multiplayer-symmetric.md)*）
 
 ------
 
@@ -207,7 +207,9 @@
 
 ### 问题
 
-在与他人联机时总是在每个整点或半点断开连接
+在使用多人联机时出现下面图片问题↓
+
+![](/assets/img/docs/multiplayer-faq/2.png)
 
 ### 回答
 
