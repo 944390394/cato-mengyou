@@ -79,17 +79,8 @@ cato 和 ioi 作品的作者，~~一个强大而可怕的存在。~~
 本文使用的 PCL2 版本为 2.2.9
 :::
 ### 主界面
-<<<<<<< HEAD
 ![mainpage.png](./png/pcl2/mainpage.png)
-=======
-![zhujiemain.png](./png/zhujiemain.png)
 
-### 启动游戏
-#### 单击此处后，您将会启动当前主界面所选游戏。
-
-#### PCL2 此时不会关闭界面。
-![qingdong.png](./png/qidong.png)
->>>>>>> ff40308b7396982f33f2943b7a3a28922fd6fd49
  
 ### 多人联机界面
 ![connectpage.png](./png/pcl2/connectpage.png)
