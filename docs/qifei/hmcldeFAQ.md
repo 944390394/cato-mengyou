@@ -39,7 +39,7 @@
 
 在使用多人联机时出现下面图片问题↓
 
-![tuicu2.png](./png/tuicu2.png)
+![tuicu2.png](./png/hmcl/tuicu2.png)
 
 ### 回答
 
@@ -52,7 +52,7 @@
 
 在使用多人联机时出现下面图片问题↓
 
-![wufalianjie.png](./png/wf-1.png)
+![wufalianjie.png](./png/hmcl/wf-1.png)
 
 ### 回答
 **请检查 HMCL 检测出来的 NAT 等级不是 差或极差 ，因为可能就是因为他而无法进行联机。**
@@ -81,7 +81,7 @@
 
 进入 HMCL 多人联机页面时出现下方图片问题↓
 
-![chuangfang.jpg](./png/chuangfang.jpg)
+![chuangfang.jpg](./png/hmcl/chuangfang.jpg)
 
 **请检查房主和你的HMCL版本是否一致,且版本是否为开发版**<img src="https://img.shields.io/maven-central/v/org.glavo.hmcl/hmcl-dev?label" style="zoom: 130%;" />
 
@@ -119,7 +119,7 @@
 
 在对方加入房间时出现下面图片问题↓
 
-![pj.png](./png/pj.png)
+![pj.png](./png/hmcl/pj.png)
 ### 回答
 **请确认 HMCL 版本是否为开发版 <img src="https://img.shields.io/maven-central/v/org.glavo.hmcl/hmcl-dev?label" style="zoom: 130%;" />，若不是，请在 [此处](https://gitee.com/Glavo/HMCL-Update/blob/main/README.md#%E6%B5%8B%E8%AF%95%E7%89%88-)下载他**
 
@@ -135,7 +135,7 @@
 
 在创建房间时发生如下图片问题↓
 
-![5.png](./png/5.png)
+![5.png](./png/hmcl/5.png)
 
 ### 回答
 
@@ -151,7 +151,7 @@
 
 使用凭证开启桥接服务，然后创建房间时发生下方图片问题↓
 
-![6](./png/6.png)
+![6](./png/hmcl/6.png)
 
 ### 回答
 
@@ -169,9 +169,9 @@
 
 创建房间时检测不到游戏端口，上面的小横条一直在动，如图↓
 
-![7](./png/7.png)
+![7](./png/hmcl/7.png)
 
-![8](./png/8.png)
+![8](./png/hmcl/8.png)
 
 ### 回答
 
@@ -201,7 +201,7 @@
 
 **注：加入方若使用离线账号，那么必须点击如在下方图片↓显示的 HMCL 多人联机房间按钮进入！否则无法进入**
 
-![9](./png/9.jpg)
+![9](./png/hmcl/9.jpg)
 
 ## 在与他人联机时总是在每个整点或半点断开连接
 
