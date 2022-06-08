@@ -3,10 +3,19 @@
 ::: tip 提示
 如果你在使用cato过程中遇到任何问题，请先查阅 [常见问题解答](/changjian.md)，确认你遇到的问题不在此列后，再依照 [报告问题的正确姿势](/tiwen.md) 中的要求联系开发者。
 :::
-## 检查你的机器是否符合要求
-流畅运行 Cato 对你的服务器的配置的要求非常低，你需要检查的是你的运行环境.
+## 检查你的机器系統
+Cato已兼容绝大多数的系统，您可以在此页面找到合适您系统的程序
+|系统|支持的系统架构|
+|:--:|:--:|
+|Windows|`AMD64` `ARM64` `i386`|
+|Node|Node.js WASM|
+|Linux|`AMD64` `ARM64` `Arm7` `i386` `MIPS` `MIPSLE` `MIPS64` `MIPS64LE` `PPC64` `PPC64LE`|
+|FreeBSD|**AMD64** **ARM64** **Arm7** **i386**|
+|MacOs|`AMD64` `ARM64`|
+|OpenBSD|**AMD64** **ARM64** **Arm7** **i386**|
+
 ## 下载Cato
-最新版本的完整安装包可以在这里找到：[这里](https://mcer.cn/104.html?ref=azAtwBwzp)
+最新版本的完整安装包可以在这里找到：【[点我打开下载页](https://mcer.cn/104.html?ref=azAtwBwzp)】
 ::: tip 提示
 请根据您的系统环境来选择正确的版本。
 :::
@@ -50,23 +59,33 @@ Usage of cato:
 
 windows环境可通过双击打开 cato.exe
 ```
+默认的情况下会加入公共网络网络服务，获得一个mix开头的动态id。
 ## 认证入网 (listen only)
 ```
 ./cato -auth.token 你的token或new
 例如.
 ./cato -auth.token zKTJLjCzF5gm
 ```
+需要注意的是通过凭证进行入网会加入社区网络，获得的节点id是该凭证的序列号。
 ## 内置终端 (internal console)
 ### 根指令
-<pre class="prettyprint linenums prettyprinted" style=""><ol class="linenums"><li class="L0"><code><span class="pln">net</span><span class="pun">:网络功能</span></code></li><li class="L1"><code><span class="pln">ufw</span><span class="pun">:简易防火墙</span></code></li></ol></pre>
-
+```
+api:接口控制
+net:网络功能
+ufw:简易防火墙
+```
 ---
 ### net – 网络功能
-<pre class="prettyprint linenums prettyprinted" style=""><ol class="linenums"><li class="L0"><code><span class="pln">net add</span><span class="pun">:接入新网络</span></code></li><li class="L1"><code><span class="pln">net list</span><span class="pun">:当前网络列表</span></code></li></ol></pre>
+```
+net add:接入新网络
+net list:当前网络列表
+```
 
 
 ### net add – 接入新网络:
-<pre class="prettyprint linenums prettyprinted" style=""><ol class="linenums"><li class="L0"><code><span class="pln"> net add </span><span class="pun">本地地址:端口</span><span class="pln"> </span><span class="pun">远程地址:端口</span><span class="pln"> </span><span class="pun">（可选扩展指令：网络模式[</span><span class="pln">p2p</span><span class="pun">/</span><span class="pln">bridge</span><span class="pun">]|网络协议[</span><span class="pln">tcp</span><span class="pun">/</span><span class="pln">udp</span><span class="pun">]|镜像类型[</span><span class="pln">forward</span><span class="pun">|</span><span class="pln">reverse</span><span class="pun">]）</span></code></li></ol></pre>
+```
+net add 本地地址:端口 远程地址:端口 （可选扩展指令：网络模式[p2p/bridge]|网络协议[tcp/udp]|镜像类型[forward|reverse]）
+```
 
 ::: tip  提示
 可选扩展指令大多数时候都不用添加（保持默认）但部分情况需要进行网络调整的时候它将会帮上大忙
